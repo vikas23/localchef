@@ -1,0 +1,14 @@
+body {
+  background: url(/img/food-india.jpg);
+}
+
+.foodieChef {
+  margin: 0 auto;
+  font-size: 40px;
+}
+
+.centerScreen {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
